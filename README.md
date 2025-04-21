@@ -38,8 +38,7 @@ faceImage = cv2.imread('643.JPG')
 plt.imshow(faceImage[:,:,::-1]);plt.title("Face")
 ```
 
-![Screenshot 2025-04-15 092701](https://github.com/user-attachments/assets/1bf61351-485d-419e-843a-4d84840fbb3f)
-
+![Screenshot 2025-04-21 175459](https://github.com/user-attachments/assets/941dcc09-2608-4a25-9bfe-208fdc290e66)
 
 
 ```
